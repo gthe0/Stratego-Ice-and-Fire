@@ -19,7 +19,7 @@ They also come bundled with the **Eclipse compiler** and a JRE.
 This project was written to run in Java 8, but you should not have any problems compiling it for newer versions of Java because it's backwards compatible.
 
 ## Usage
-To run the game, after compilation, you can either press the Run Button of the IDE of your choice or create an executable.
+To run the game either run the **Stratego.jar** executable or, after compilation, you can either press the Run Button of the IDE of your choice or create an executable.
 
 ## Contributing
 Contributions to this project are welcome! If you would like to contribute, please follow these steps:
