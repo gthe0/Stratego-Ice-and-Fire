@@ -9,7 +9,7 @@ This Project was written for a college assignment, under fair-use, for education
 ## Installation
 Clone the repository to your local machine using either the GitHub Desktop app or by using the following command:
 ```console 
-git clone https://github.com/your-username/college-assignment.git
+git clone https://github.com/gthe0/Stratego-MVC-project-using-Java-and-swing
 ```
 
 ## Compilation
